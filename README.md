@@ -6,7 +6,7 @@
 - 💬 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou para trocar ideias sobre desenvolvimento web.
 - 📫 Você também pode me encontrar em outras plataformas como [LinkedIn](https://linkedin.com/in/fabricio-de-lima-melo-435200242/).
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabriciodevlima&show_icons=true&theme=dracula) ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodevlima&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabriciolimadev&show_icons=true&theme=dracula) ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolimadev&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabríciolima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
